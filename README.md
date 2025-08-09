@@ -1,4 +1,4 @@
-# 💬 ChatGPT-Style Multi-Chat AI Chatbot
+# 💬 Multi-Chat AI Chatbot
 
 A fully functional **Chatbot** built with **Streamlit**, **LangChain**, and **OpenAI's GPT models**.  
 Features include **multi-chat sessions**, per-chat **domain context**, **auto-naming from first message**, and a modern conversational interface.
