@@ -3,8 +3,6 @@
 A fully functional **Chatbot** built with **Streamlit**, **LangChain**, and **OpenAI's GPT models**.  
 Features include **multi-chat sessions**, per-chat **domain context**, **auto-naming from first message**, and a modern conversational interface.
 
----
-
 ## 🚀 Features
 
 - ChatGPT-like UI using `st.chat_message` & `st.chat_input`
@@ -16,8 +14,6 @@ Features include **multi-chat sessions**, per-chat **domain context**, **auto-na
 - Uses user-supplied OpenAI API key — no need to embed your own key
 - LangChain integration for prompt templating and conversation memory handling
 
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3.9+**
@@ -26,8 +22,6 @@ Features include **multi-chat sessions**, per-chat **domain context**, **auto-na
 - **OpenAI API** – LLM models (GPT-4, GPT-3.5, etc.)
 - **python-dotenv** – Environment variable management
 
----
-
 ## 📂 Project Structure
 
 ├── app.py # Main Streamlit app with UI and chat session logic
@@ -35,9 +29,6 @@ Features include **multi-chat sessions**, per-chat **domain context**, **auto-na
 ├── requirements.txt
 ├── .env.example # Example environment file for secrets
 └── README.md
-
-
----
 
 ## ⚙️ Setup & Installation
 
@@ -67,8 +58,6 @@ Features include **multi-chat sessions**, per-chat **domain context**, **auto-na
         ```
     - *(OpenAI API key is entered by each user in the app’s sidebar)*
 
----
-
 ## ▶️ Usage (Local)
 
 Run the app locally:
@@ -78,8 +67,6 @@ streamlit run app.py
 - Enter your **OpenAI API key** in the sidebar
 - Select a **domain** for your chat or create a new one
 - Start chatting! Create multiple chats from the sidebar and switch between them
-
----
 
 ## 📜 License
 
