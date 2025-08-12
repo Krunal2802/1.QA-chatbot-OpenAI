@@ -38,8 +38,8 @@ Features include **multi-chat sessions**, per-chat **domain context**, **auto-na
 
 1. **Clone this repository**
     ```
-    git clone https://github.com/yourusername/chatgpt-style-chatbot.git
-    cd chatgpt-style-chatbot
+    git clone https://github.com/Krunal2802/1.QA-chatbot-OpenAI.git
+    cd 1.QA-chatbot-OpenAI
     ```
 
 2. **Create a virtual environment**
