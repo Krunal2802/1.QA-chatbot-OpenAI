@@ -25,9 +25,13 @@ Features include **multi-chat sessions**, per-chat **domain context**, **auto-na
 ## 📂 Project Structure
 
 ├── app.py # Main Streamlit app with UI and chat session logic
+
 ├── utils.py # LangChain prompt template and LLM response function
+
 ├── requirements.txt
-├── .env.example # Example environment file for secrets
+
+├── .env # Example environment file for secrets
+
 └── README.md
 
 ## ⚙️ Setup & Installation
